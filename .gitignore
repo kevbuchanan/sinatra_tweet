@@ -11,6 +11,7 @@ tmp/
 coverage
 doc/api
 doc/app
+config.sh
 curriculum/.pygments-cache
 curriculum/public/*
 public/assets
